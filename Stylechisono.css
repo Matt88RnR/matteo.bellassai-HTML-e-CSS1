@@ -1,0 +1,66 @@
+*{box-sizing: border-box;  padding: 0; margin: 0}
+
+body {
+
+  background: #c5ded7;
+
+font-family: "Georgia";
+}
+p {
+  color: #000; font-size: 17px; text-align: center;
+}
+  a {color: #15c2a2; text-decoration: none}
+  span {color: white; padding-left:15px;  font: 400 60px/1.3 'Berkshire Swash';
+  color: white;}
+
+
+
+  .img-res {width: 100%; height: auto;}
+
+  h1,
+  h3,
+h2 {text-align: center; font-size: 25px; color: #333; padding: 15px 15px 15px 15px}
+.ciccio {text-align: center; font-style: italic; font-size: 20px;color: #303030}
+
+
+
+
+header {background: #333;padding: 25px 15px 15px 15px; width: 100%}
+
+
+
+.logo{text-align: center;width: 102%;display: block; font-size: 30px; padding: 10px}
+
+
+h1 {padding-top: 40px}
+
+#menu-principale {text-align: center; font-size: 15px}
+
+#menu-principale li{display: inline}
+
+#menu-principale li a{margin: 10px}
+
+#menu-principale {color: #000;}
+
+br {font-style: italic bold;}
+
+div {text-align: center;padding-bottom: 0}
+.padding {padding: 20px 40px 40px 40px}
+
+
+footer {background: #333;padding: 30px}
+.container {width: 100%; display: flex;flex-wrap: wrap;}
+.box {flex: 1; margin: 15px;min-width: 300px;}
+.box h4 {text-transform: uppercase;}
+footer h4 {color: #FFF; padding-bottom: 10px}
+
+footer p {color: #fff; text-align: center;padding: 2px}
+footer p a {text-decoration: none; color: #fff; text-align: center;}
+.socials {list-style: none; display: flex;align-items: center; justify-content: center;margin: 1rem 0 1rem 0}
+.socials li { margin: 0 10px;}
+.socials a {text-decoration: none;}
+.socials a: hover img{color: #FFF}
+.fa  {border: 1px; width: 30px; height: 30px;}
+.fa-in  {border: 1px; width: 30px; height: 30px;}
+
+.wa-link {display: inline-block; border: 1px; width: 80px; height: 80px; position: fixed; bottom: 20px; right: 20px}
